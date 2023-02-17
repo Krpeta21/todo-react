@@ -1,0 +1,13 @@
+form{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+form input{
+  width: 300px;
+}
+.btnclass{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
